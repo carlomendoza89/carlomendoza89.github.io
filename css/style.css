@@ -700,6 +700,10 @@ a:hover {
   background-color: #61dafb;
 }
 
+.project a {
+  text-decoration: underline;
+}
+
 /*======================================
 //--//-->   SERVICES
 ======================================*/
@@ -1088,7 +1092,7 @@ footer .credits a {
 }
 
 /*======================================
-//--//-->   CONtaCT FORM
+//--//-->   CONTACT FORM
 ======================================*/
 
 #sendmessage {
