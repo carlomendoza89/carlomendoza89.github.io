@@ -684,6 +684,11 @@ a:hover {
   margin-left: 10px;
 }
 
+.skills li {
+  display: inline;
+  padding-right: 10px;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
